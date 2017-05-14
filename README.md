@@ -10,3 +10,4 @@
 * 前期 第2週（4月17日）： 関数（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-02.pdf), [UNIXコマンドと開発環境について](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso-unix.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-02-ans.pdf)）
 * 前期 第3週（4月24日）： 配列（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-03.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-03-ans.pdf)）
 * 前期 第4週（5月8日）： マクロ（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-04.pdf),  [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-04-ans.pdf)）
+* 前期 第5週（5月15日）： 標準ライブラリの利用（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-05.pdf)）
