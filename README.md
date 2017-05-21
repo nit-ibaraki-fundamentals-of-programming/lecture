@@ -11,3 +11,5 @@
 * 前期 第3週（4月24日）： 配列（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-03.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-03-ans.pdf)）
 * 前期 第4週（5月8日）： マクロ（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-04.pdf),  [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-04-ans.pdf)）
 * 前期 第5週（5月15日）： 標準ライブラリの利用（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-05.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-05-ans.pdf)）
+* 前期 第6週（5月22日）： 配列と文字列（[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-06.pdf)）
+* 小テスト（[第4週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-04-test.pdf), [第5週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-05-test.pdf), [第6週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-06-test.pdf)）
