@@ -15,5 +15,6 @@
 * 小テスト（[第3週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-03-test.pdf), [第4週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-04-test.pdf), [第5週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-05-test.pdf)）
 * 昨年度の前期中間試験（[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2016-kiso1-mid.pdf)）
 * 前期 第7週： 前期中間試験（[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2017-kiso1-mid.pdf)）
-
-* 前期 第8週（6月12日）： ソースコード, 分割コンパイル （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-08.pdf)）
+---
+* 前期 第8週（6月12日）： ソースコード, 分割コンパイル （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-08.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-08-ans.pdf)）
+* 前期 第9週（6月19日）： 文字列と標準ライブラリ関数 （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-09.pdf)）
