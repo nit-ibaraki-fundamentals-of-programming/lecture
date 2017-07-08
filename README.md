@@ -20,3 +20,4 @@
 * 前期 第9週（6月19日）： 文字列と標準ライブラリ関数 （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-09.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-09-ans.pdf)）
 * 前期 第10週（6月26日）： 多次元配列 （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-10.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-10-ans.pdf)）
 * 前期 第11週（7月3日）： 数値表現（1） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-11.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-11-ans.pdf)）
+* 前期 第12週（7月10日）： 数値表現（2） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12.pdf)）
