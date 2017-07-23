@@ -22,3 +22,4 @@
 * 前期 第11週（7月3日）： 数値表現（1） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-11.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-11-ans.pdf)）
 * 前期 第12週（7月10日）： 数値表現（2） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12-ans.pdf)）
 * 前期 第13週（7月17日）： 演算子（1） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-13.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-13-ans.pdf)）
+* 前期 第14週（7月24日）： 演算子（2） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-14.pdf)）
