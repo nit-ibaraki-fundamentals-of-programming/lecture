@@ -23,3 +23,6 @@
 * 前期 第12週（7月10日）： 数値表現（2） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12-ans.pdf)）
 * 前期 第13週（7月17日）： 演算子（1） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-13.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-13-ans.pdf)）
 * 前期 第14週（7月24日）： 演算子（2） （[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-14.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-14-ans.pdf)）
+* 復習回（7月27日）
+* 小テスト（[第9週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-09-test.pdf), [第10週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-10-test.pdf), [第12週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12-test.pdf), [第13週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-13-test.pdf)）
+* 昨年度の前期期末試験（[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2016-kiso1-term.pdf)）
