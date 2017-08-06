@@ -26,3 +26,4 @@
 * 復習回（7月27日）
 * 小テスト（[第9週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-09-test.pdf), [第10週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-10-test.pdf), [第12週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-12-test.pdf), [第13週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso1-13-test.pdf)）
 * 昨年度の前期期末試験（[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2016-kiso1-term.pdf)）
+* 前期 第15週： 前期期末試験（[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2017-kiso1-term.pdf)）
