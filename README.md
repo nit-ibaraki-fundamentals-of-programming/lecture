@@ -9,6 +9,7 @@
 * 後期 第2週（10月2日）： アドレスとポインタ･･･[講義資料（10/2資料訂正版）](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-02.pdf), [キューの実装について](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-02-queue.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-02-ans.pdf)
 * 後期 第3週（10月10日）： 引数とポインタ･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-03.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-03-ans.pdf)
 * 後期 第4週（10月16日）： 配列とポインタ･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-04.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-04-ans.pdf)
+* 後期 第5週（10月27日）： 文字列とポインタ･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-05.pdf)
 
 ## 講義資料（前期）
 
