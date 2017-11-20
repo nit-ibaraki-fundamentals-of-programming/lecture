@@ -15,6 +15,7 @@
 * 小テスト･･･[第3週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-03-test.pdf), [第4週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-04-test.pdf), [第5週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-05-test.pdf)
 * 昨年度の後期中間試験･･･[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2016-kiso2-mid.pdf)
 * 後期 第7週： 後期中間試験･･･[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2017-kiso2-mid.pdf)
+---
 * 後期 第8週（11月20日）： ファイル入出力（1）･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-08.pdf)
 
 ## 講義資料（前期）
