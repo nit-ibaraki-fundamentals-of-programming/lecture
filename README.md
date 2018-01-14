@@ -21,6 +21,7 @@
 * 後期 第10週（12月4日）： 構造体の基本とポインタ･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-10.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-10-ans.pdf)
 * 後期 第11週（12月11日）： 構造体の配列とCSVファイル･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-11.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-11-ans.pdf)
 * 後期 第12週（12月18日）： 構造体のリスト･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-12.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-12-ans.pdf)
+* 後期 第13週（1月15日）： 構造体のリストに対する操作･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-13.pdf)
 
 ## 講義資料（前期）
 
