@@ -22,6 +22,9 @@
 * 後期 第11週（12月11日）： 構造体の配列とCSVファイル･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-11.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-11-ans.pdf)
 * 後期 第12週（12月18日）： 構造体のリスト･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-12.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-12-ans.pdf)
 * 後期 第13週（1月15日）： 構造体のリストに対する操作･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-13.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-13-ans.pdf)
+* 後期 第14週（1月22日）： 線形リストを使ったスタック･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-14.pdf)
+* 小テスト･･･[第11週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-11-test.pdf), [第12週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-12-test.pdf), [第13週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-13-test.pdf)
+* 昨年度の後期期末試験･･･[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2016-kiso2-term.pdf)
 
 ## 講義資料（前期）
 
