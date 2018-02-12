@@ -25,6 +25,7 @@
 * 後期 第14週（1月22日）： 線形リストを使ったスタック･･･[講義資料](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-14.pdf), [課題プログラム例](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-14-ans.pdf)
 * 小テスト･･･[第11週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-11-test.pdf), [第12週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-12-test.pdf), [第13週](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/kiso2-13-test.pdf)
 * 昨年度の後期期末試験･･･[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2016-kiso2-term.pdf)
+* 後期 第15週： 後期期末試験（[試験問題と模範解答](https://github.com/nit-ibaraki-fundamentals-of-programming/lecture/raw/master/src/2017-kiso2-term.pdf)）
 
 ## 講義資料（前期）
 
